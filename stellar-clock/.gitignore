@@ -1,0 +1,21 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VSCode
+.vscode/
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
