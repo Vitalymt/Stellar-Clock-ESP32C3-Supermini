@@ -42,7 +42,7 @@ Stellar Clock — автономные настольные часы, синхр
 
 ## Схема подключения
 
-![Схема](docs/diagram.jpg)
+![Схема подключения](docs/diagram.svg)
 
 - I²C шина: SDA → GPIO 8, SCL → GPIO 9
 - LED: GPIO 0 → резистор → LED → GND
